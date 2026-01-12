@@ -6,7 +6,25 @@ It is designed for learning, practice, and building real-world applications usin
 
 ---
 
-## 📂 Projects Included  
+### 📂 Projects Included  
+### 👨‍💼 Employee Management System (EMS)
+
+A full-stack web application designed to manage employee records efficiently.
+
+Backend (Spring Boot)
+- Built using Spring Boot with RESTful APIs.
+- Handles business logic and CRUD operations (Create, Read, Update, Delete).
+- Uses Controller, Service, and Repository layers for clean architecture.
+
+Frontend (Thymeleaf)
+- Provides a user-friendly interface to interact with employee data.
+- Allows users to add, view, edit, and delete employee details.
+- Communicates with the backend using HTTP requests (REST APIs).
+
+Database (MySQL)
+- Stores employee information like ID, name, role, and department.
+- Integrated using Spring Data JPA and Hibernate for ORM.
+- Ensures efficient data persistence and retrieval.
 
 ### 📝 Simple Note Application  
 - A Spring Boot app for managing notes (create, read, update, delete).  
