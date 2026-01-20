@@ -33,7 +33,15 @@ Database (MySQL)
 ### 🛍️ E-commerce Product Catalog  
 - A product catalog management system.  
 - Includes a Spring Boot backend and a React frontend.  
-- Supports adding, listing, and managing products.  
+- Supports adding, listing, and managing products.
+
+### 🛍️Customer Product Management System
+A focused Spring Boot REST application for managing personalized product catalogs.
+
+- Backend (Spring Boot): Developed with Java 17, using Controller and Service layers to handle RESTful APIs and business logic.
+- Data Management: Uses In-Memory storage (Static Lists) to manage a one-to-many relationship between Customers and Products without a database.
+- API Functionality: Supports CRUD operations, allowing users to fetch product lists and add new items using POST requests.
+- Standards: Implements REST best practices, returning 201 Created status codes and dynamic Location headers for new resources.
 
 ---
 
