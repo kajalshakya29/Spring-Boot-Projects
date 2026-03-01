@@ -50,8 +50,9 @@ A focused Spring Boot REST application for managing personalized product catalog
 - Demonstrates **full-stack integration with React**.  
 - Beginner-friendly and extendable into **production-level apps**.
 
-## 👩‍💻 Author  
+## Author  
 **Kajal Shakya**  
-Backend Developer | Java, Spring Boot, Hibernate, REST APIs  
+Backend Developer | Java, Spring Boot, Microservices Hibernate, REST APIs  
 📍 Agra, Uttar Pradesh  
-Github- https://github.com/kajalshakya29
+- Github- https://github.com/kajalshakya29
+- LinkedIn- https://www.linkedin.com/in/kajal-shakya-417485243/
